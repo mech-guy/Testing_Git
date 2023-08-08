@@ -1,0 +1,8 @@
+relation,connect
+F_{max} - \frac{E*d^{4} (L - n*d)}{16(1 + \nu)(D-d)^{3}n},Max Spring Force
+\vec{\omega} - \vec{\alpha} * t = 0,Circular motion
+v - \sqrt{\frac{2*G*m}{r}} = 0,Escape velocity
+g - \frac{G*M}{r^{2}} = 0,Graviational acceleration
+p + \frac{\rho*v^{2}}{2} + \rho*(\vec{g}\cdot\vec{h}) - constant = 0,Bernoulli's principle
+W - m*(\vec{g}\cdot\vec{h}) = 0,Work done by gravity
+\tau - \vec{r}\times\vec{F} = 0,Torque Formula
