@@ -1,0 +1,32 @@
+equation,connect
+Max Spring Force,Spring Force
+Max Spring Force,Spring Outer Diameter
+Max Spring Force,Spring Wire Diameter
+Max Spring Force,Free length of spring
+Max Spring Force,Young's Modulus
+Max Spring Force,Poisson ratio
+Max Spring Force,number of active Windings
+Circular motion,angular acceleration
+Circular motion,time
+Circular motion,angular velocity
+Escape velocity,mass
+Escape velocity,Gravitational constant
+Escape velocity,radius
+Escape velocity,Escape velocity
+Graviational acceleration,gravitational constant
+Graviational acceleration,mass
+Graviational acceleration,radius
+Graviational acceleration,acceleration due to gravity
+Bernoulli's principle,pressure
+Bernoulli's principle,density
+Bernoulli's principle,velocity
+Bernoulli's principle,acceleration due to gravity
+Bernoulli's principle,constant
+Bernoulli's principle,height
+Work done by gravity,mass
+Work done by gravity,acceleration due to gravity
+Work done by gravity,height
+Work done by gravity,work done against gravity
+Torque Formula,Force
+Torque Formula,Torque
+Torque Formula,radius
