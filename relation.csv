@@ -1,0 +1,15 @@
+relation,connect
+max\_ spring\_ force - \frac{max\_ spring\_ force*spring\_ wire\_ diameter^{4} (free\_ length\_ of\_ spring - number\_ of\_ active\_ windings*spring\_ wire\_ diameter)}{16(1 + poisson\_ ratio)(spring\_ outer\_ diameter-spring\_ wire\_ diameter)^{3}poisson\_ ratio},spring_properties
+\vec{angular\_ velocity\_ vec} - \vec{angular\_ acceleration\_ vec} * time = 0,circular_motion
+$$escape\_ velocity\_ orbit - \sqrt{\frac{2*gravitational\_ constant*gravitational\_ constant}{radial\_ distance\_ from\_ planet}} = 0$$,escape_velocity
+acceleration\_ due\_ to\_ gravity - \frac{gravitational\_ constant*planet\_ mass}{radial\_ distance\_ from\_ planet^{2}} = 0,graviational_acceleration
+work\_ by\_ gravity - mass*(\vec{acceleration\_ due\_ to\_ gravity}\cdot\vec{displacement}) = 0,work_done_by_gravity
+velocity\_ circular\_ orbit - \sqrt{\frac{gravitational\_ constant*planet\_ mass}{radial\_ distance\_ from\_ planet}} = 0,earth_satellite_speed_in_a_circular_orbit
+torque - \vec{radius}\times\vec{force_vec} = 0,torque_formula
+mechanical\_ advantage = \frac{radius\_ wheel}{radius\_ axle},mechanical_advantage_of_a_wheel_and_axle
+\vec{force\_ newton} = mass*\vec{acceleration\_ newton},newtons_second_law
+mechanical\_ stress - \frac{force}{stress\_ area} = 0,mechanical_stress_general_relation
+critical\_ buckling\_ load - \frac{\pi^{2}*planar\_ area\_ moment\_ of\_ inertia*youngs\_ modulus}{length\_of\_ column^{2}} = ,euler_critical_buckling_load
+poisson\_ ratio - \frac{width\_ difference}{\frac{original\_ width*length\_ difference}{original\_ length}} = 0,poisson_ratio_for_rectangular_area
+moment\_ of\_ inertia\_ about\_ x\_ axis - \frac{\pi*radius\_ of\_ disc^{4}}{4},moment_of_inertia_of_disk_about_x_axis
+pressure_fluid + \frac{density\_ fluid*velocity\_ fluid^{2}}{2} + density\_ fluid*(\vec{acceleration\_ due\_ to\_ gravity\_ vec}\cdot\vec{fluid\_ height}) - constant = 0,bernoullis_principle
