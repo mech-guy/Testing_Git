@@ -18,7 +18,7 @@ Outer diameter of the spring,spring_outer_diameter
 Diameter of the wire making up the spring,spring_wire_diameter
 length of the spring when not under any tension or compression,free_length_of_spring
 Material related constant of the spring,youngs_modulus
-ratio of the change in the width per unit width of a material to the change in its length per unit length as a result of strain,poisson_ratio
+ratio of change in width per unit width of a material to the change in length per unit length due to strain,poisson_ratio
 Number of windings in the spring,number_of_active_windings
 The change in angular velocity per second,angular_acceleration_vec
 Time taken by a body to reach a certain angular velocity,time
