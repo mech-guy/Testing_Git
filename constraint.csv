@@ -1,6 +1,8 @@
 constraint,connect
-"spring_outer_diameter-spring_wire_diameter>0, spring_outer_diameter>0",spring_outer_diameter
-"spring_outer_diameter-spring_wire_diameter>0, spring_wire_diameter>0",spring_wire_diameter
+spring_outer_diameter-spring_wire_diameter>0,spring_outer_diameter
+spring_outer_diameter>0,spring_outer_diameter
+spring_outer_diameter-spring_wire_diameter>0,spring_wire_diameter
+spring_wire_diameter>0,spring_wire_diameter
 free_length_of_spring > 0,free_length_of_spring
 youngs_modulus > 0,youngs_modulus
 poisson_ratio -1 < 0,poisson_ratio
