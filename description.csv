@@ -41,13 +41,13 @@ Radius of axle on which torque or force is applied,radius_axle
 Force applied,force_newton
 mass of object on which force is applied,mass
 acceleration resulting from application of force on body,acceleration_newton
-,mechanical_stress
+stress acting on a part,mechanical_stress
 area on which the force is applied leading to mechanical stress,area
 Load under which column starts to buckle,critical_buckling_load
 length of column that is under load,length_of_column
 parameter that depends on geometry of object under force or torque loading,planar_area_moment_of_inertia
 Material specific constant,youngs_modulus
-"the ratio of the change in the width per unit width of a material, to the change in its length per unit length, as a result of strain",poisson_ratio
+the ratio of the change in the width per unit width of a material, to the change in its length per unit length, as a result of strain,poisson_ratio
 original length  of column before loading,original_length
 original width of column before loading,original_width
 difference in length of column after loading,length_difference
